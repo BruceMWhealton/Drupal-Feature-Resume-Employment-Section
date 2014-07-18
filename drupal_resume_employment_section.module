@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Employment Section feature.
+ */
+
+include_once 'drupal_resume_employment_section.features.inc';
